@@ -5,4 +5,7 @@
 
 .WeatherForecast canvas {
   display: block;
+  text-align: center;
+  opacity: 1;
+  margin: 3px auto;
 }

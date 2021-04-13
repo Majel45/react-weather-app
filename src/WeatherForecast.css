@@ -3,13 +3,6 @@
   margin: 20px auto;
 }
 
-.WeatherForecast canvas {
-  display: block;
-  text-align: center;
-  opacity: 1;
-  margin: 3px auto;
-}
-
 .WeatherForecast-temperature-min {
   opacity: 0.6;
   margin-left: 5px;
